@@ -1,0 +1,19 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.formatOnSave": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.wordWrap": "on",
+    "editor.fontFamily": "Cascadia Code",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "settingsSync.ignoredSettings": [
+      
+    ]
+  }
+  
