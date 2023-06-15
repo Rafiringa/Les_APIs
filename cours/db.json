@@ -1,0 +1,15 @@
+{
+  "posts": [],
+  "users": [
+    {
+      "pseudo": "Rafh",
+      "message": "Yo les gens !",
+      "id": 1
+    },
+    {
+      "pseudo": "Rafh",
+      "message": "Yo les gens !",
+      "id": 2
+    }
+  ]
+}
